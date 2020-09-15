@@ -3,7 +3,7 @@ The samples  of the echo web framework of golang
 
 * [1.章节](#1)
 
- * [1.1chapter1](#hello_world)
+ * [1.1chapter1](#Hello_World)
 
  * [1.2chapter2](#路由)
 
@@ -16,7 +16,7 @@ The samples  of the echo web framework of golang
 视频地址:  
 [Go语言Echo Web框架1_视频_HelloWorld](https://www.ixigua.com/6871198500143497740/)  
 演示代码:  
-[source code](https://github.com/jianjunjie/echoDemo/tree/master/chapter1)  
+[source code](https://github.com/jianjunjie/echoDemo/blob/master/chapter1/main.go)  
 
 ## 路由
 文章地址:  
@@ -24,7 +24,7 @@ The samples  of the echo web framework of golang
 视频地址:  
 [Go语言Echo Web框架2_视频_路由](https://www.ixigua.com/6871599589351227918/)  
 演示代码:  
-[source code](https://github.com/jianjunjie/echoDemo/tree/master/chapter2)  
+[source code](https://github.com/jianjunjie/echoDemo/blob/master/chapter2/main.go)  
 
 ## Request请求
 文章地址:  
@@ -32,4 +32,4 @@ The samples  of the echo web framework of golang
 视频地址:  
 [Go语言Echo Web框架3_视频_Request请求]()  
 演示代码:  
-[source code](https://github.com/jianjunjie/echoDemo/tree/master/chapter3)  
+[source code](https://github.com/jianjunjie/echoDemo/blob/master/chapter3/main.go)  
