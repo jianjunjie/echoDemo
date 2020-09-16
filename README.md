@@ -30,6 +30,6 @@ The samples  of the echo web framework of golang
 文章地址:  
 [Go语言Echo Web框架3-Request请求](https://www.toutiao.com/i6869244869051679236/)  
 视频地址:  
-[Go语言Echo Web框架3_视频_Request请求]()  
+[Go语言Echo Web框架3_视频_Request请求](https://www.ixigua.com/6872702285466567175/)  
 演示代码:  
 [source code](https://github.com/jianjunjie/echoDemo/blob/master/chapter3/main.go)  
