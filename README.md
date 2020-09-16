@@ -3,7 +3,7 @@ The samples  of the echo web framework of golang
 
 * [1.章节](#1)
 
- * [1.1chapter1](#Hello_World)
+ * [1.1chapter1](#Hello-World)
 
  * [1.2chapter2](#路由)
 
