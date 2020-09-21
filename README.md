@@ -37,8 +37,13 @@ The samples  of the echo web framework of golang
 
 ## 静态文件
 文章地址: [Go语言Echo Web框架5-静态文件](https://www.toutiao.com/i6869335824610099716/)  
-视频地址: [Go语言Echo Web框架5_视频_静态文件]()  
+视频地址: [Go语言Echo Web框架5_视频_静态文件](https://www.ixigua.com/6874206431927763459/)  
 演示代码: [source code](https://github.com/jianjunjie/echoDemo/blob/master/chapter5/main.go)  
+
+## 模版
+文章地址: [Go语言Echo Web框架6-模版](https://www.toutiao.com/i6869337165231292940/)  
+视频地址: [Go语言Echo Web框架6_视频_模版]()  
+演示代码: [source code](https://github.com/jianjunjie/echoDemo/blob/master/chapter6/main.go)  
 
 ## 交流群
 QQ：756759331  
