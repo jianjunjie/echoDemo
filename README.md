@@ -14,6 +14,8 @@ The samples  of the echo web framework of golang
 
  * [1.5静态文件](#静态文件)
 
+ * [1.6模版](#模版)
+
 
 ## Hello World
 文章地址: [Go语言Echo Web框架1-简单HelloWorld](https://www.toutiao.com/i6868211566471610894/)  
