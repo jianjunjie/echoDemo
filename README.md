@@ -18,6 +18,8 @@ The samples  of the echo web framework of golang
 
   * [1.7Cookie和Session](#Cookie和Session)
 
+  * [1.8JWT](#JWT)
+
 * [2.其它](#其它)
 
   * [2.1交流群](#交流群)
@@ -41,7 +43,7 @@ The samples  of the echo web framework of golang
 
 ### Response响应
 文章地址: [Go语言Echo Web框架4-Response响应](https://www.toutiao.com/i6869275432873624076/)  
-视频地址: [Go语言Echo Web框架4_视频_Response响应](https://www.ixigua.com/6873433638671745539/)  
+视频地址: [Go语言Echo Web框架4_视频_Response响应]()  
 演示代码: [source code](https://github.com/jianjunjie/echoDemo/blob/master/chapter4/main.go)  
 
 ### 静态文件
@@ -56,8 +58,13 @@ The samples  of the echo web framework of golang
 
 ### Cookie和Session
 文章地址: [Go语言Echo Web框架7-Cookie和Session](https://www.toutiao.com/i6869925172644676108/)  
-视频地址: [Go语言Echo Web框架7_视频_Cookie和Session]()  
+视频地址: [Go语言Echo Web框架7_视频_Cookie和Session](https://www.ixigua.com/6875320038975341067/)  
 演示代码: [source code](https://github.com/jianjunjie/echoDemo/blob/master/chapter7/main.go)  
+
+### JWT
+文章地址: [Go语言Echo Web框架8-JWT](https://www.toutiao.com/i6870850683575206412/)  
+视频地址: [Go语言Echo Web框架8_视频_JWT]()  
+演示代码: [source code](https://github.com/jianjunjie/echoDemo/blob/master/chapter8/main.go)  
 
 ## 其它
 ### 交流群
