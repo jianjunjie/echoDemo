@@ -4,21 +4,23 @@ The samples  of the echo web framework of golang
 
 * [1.内容](#内容)
 
-  * [1.1Hello World](#Hello-World)
+  * [1.1 Hello World](#Hello-World)
 
-  * [1.2路由](#路由)
+  * [1.2 路由](#路由)
 
-  * [1.3Request请求](#Request请求)
+  * [1.3 Request请求](#Request请求)
 
-  * [1.4Response响应](#Response响应)
+  * [1.4 Response响应](#Response响应)
 
-  * [1.5静态文件](#静态文件)
+  * [1.5 静态文件](#静态文件)
 
-  * [1.6模版](#模版)
+  * [1.6 模版](#模版)
 
-  * [1.7Cookie和Session](#Cookie和Session)
+  * [1.7 Cookie和Session](#Cookie和Session)
 
-  * [1.8JWT](#JWT)
+  * [1.8 JWT](#JWT)
+
+  * [1.9 日志](#日志)
 
 * [2.其它](#其它)
 
@@ -63,8 +65,13 @@ The samples  of the echo web framework of golang
 
 ### JWT
 文章地址: [Go语言Echo Web框架8-JWT](https://www.toutiao.com/i6870850683575206412/)  
-视频地址: [Go语言Echo Web框架8_视频_JWT]()  
+视频地址: [Go语言Echo Web框架8_视频_JWT](https://www.ixigua.com/6875690462376788488/)  
 演示代码: [source code](https://github.com/jianjunjie/echoDemo/blob/master/chapter8/main.go)  
+
+### 日志
+文章地址: [Go语言Echo Web框架9-日志](https://www.toutiao.com/i6871146400743162376/)  
+视频地址: [Go语言Echo Web框架9_视频_日志]()  
+演示代码: [source code](https://github.com/jianjunjie/echoDemo/blob/master/chapter9/main.go)  
 
 ## 其它
 ### 交流群
