@@ -45,7 +45,7 @@ The samples  of the echo web framework of golang
 
 ### Response响应
 文章地址: [Go语言Echo Web框架4-Response响应](https://www.toutiao.com/i6869275432873624076/)  
-视频地址: [Go语言Echo Web框架4_视频_Response响应]()  
+视频地址: [Go语言Echo Web框架4_视频_Response响应](https://www.ixigua.com/6873433638671745539/)  
 演示代码: [source code](https://github.com/jianjunjie/echoDemo/blob/master/chapter4/main.go)  
 
 ### 静态文件
@@ -70,7 +70,7 @@ The samples  of the echo web framework of golang
 
 ### 日志
 文章地址: [Go语言Echo Web框架9-日志](https://www.toutiao.com/i6871146400743162376/)  
-视频地址: [Go语言Echo Web框架9_视频_日志]()  
+视频地址: [Go语言Echo Web框架9_视频_日志](https://www.ixigua.com/6876773138923782669/)  
 演示代码: [source code](https://github.com/jianjunjie/echoDemo/blob/master/chapter9/main.go)  
 
 ## 其它
