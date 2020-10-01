@@ -22,7 +22,9 @@ The samples  of the echo web framework of golang
 
   * [1.9 日志](#日志)
 
-  * [1.9 文件上传下载](#文件上传下载)
+  * [1.10 文件上传下载](#文件上传下载)
+
+  * [1.10 websocket](#websocket)
 
 * [2.其它](#其它)
 
@@ -81,7 +83,7 @@ The samples  of the echo web framework of golang
 演示代码: [source code](https://github.com/jianjunjie/echoDemo/blob/master/chapter10/main.go) 
 
 ### websocket
-视频地址: [Go语言Echo Web框架10_视频_文件上传下载](https://www.ixigua.com/6878283550127292931/)  
+视频地址: [Go语言Echo Web框架11_视频_websocket](https://www.ixigua.com/6878283550127292931/)  
 演示代码: [source code](https://github.com/jianjunjie/echoDemo/blob/master/chapter11/main.go) 
 
 ## 其它
