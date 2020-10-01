@@ -77,8 +77,12 @@ The samples  of the echo web framework of golang
 
 ### 文件上传下载
 文章地址: [Go语言Echo Web框架10-文件上传下载](https://www.toutiao.com/i6872531112569242120/)  
-视频地址: [Go语言Echo Web框架10_视频_文件上传下载]()  
+视频地址: [Go语言Echo Web框架10_视频_文件上传下载](https://www.ixigua.com/6877915460415783427/)  
 演示代码: [source code](https://github.com/jianjunjie/echoDemo/blob/master/chapter10/main.go) 
+
+### websocket
+视频地址: [Go语言Echo Web框架10_视频_文件上传下载](https://www.ixigua.com/6878283550127292931/)  
+演示代码: [source code](https://github.com/jianjunjie/echoDemo/blob/master/chapter11/main.go) 
 
 ## 其它
 ### 交流群
