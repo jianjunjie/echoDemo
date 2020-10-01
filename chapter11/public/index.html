@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>websocket</title>
+</head>
+<body>
+    <p id="output"></p>
+</body>
+
+<script>
+    //此处需要放到window.onload中,不然document没加载好，脚本就运行了
+    window.onload=function(){
+        // 使用location获取
+        var location=window.location;
+        var uri="ws://"+location.host+location.pathname+'ws';
+        ws=new WebSocket(uri);
+
+        // 连接
+        ws.onopen=function(){
+            console.log('Connected')
+        }
+
+        // 接收服务端发送的消息，并显示到页面
+        ws.onmessage=function(e){
+            var out=document.getElementById('output');
+            out.innerHTML+=e.data+'<br>';
+        }
+
+        // 每秒给服务端发送消息
+        setInterval(function(){
+            ws.send("hello server!");
+        },1000)
+    }
+
+</script>
+</html>
+<!--我们测试下-->
